@@ -5,12 +5,8 @@
 <br/>
 
 ##### 🏫고려대학교 전기전자공학부🐯💡        
-<br/>
-<br/>
 
 ##### 🌏서울시 동대문구
-<br/>
-<br/>
 
 ##### 🛠️ Currently Learning = {C, C++, Python, Verilog, Java, Math, Science ...}
 <br/>
