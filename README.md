@@ -2,19 +2,21 @@
 ### 최병호 🗿🗿🗿🗿🗿🗿🗿
 <br/>
 <br/>
+
 ###🏫고려대학교 전기전자공학부🐯💡        
 <br/>
 <br/>
+
 ###🌏서울시 동대문구
 <br/>
 <br/>
+
 ### 🛠️ Currently Learning = {C, C++, Python, Verilog, Java, Math, Science ...}
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
 #### 개발보다 계발에 가까운 일들을 하는중
 <br/>
 <br/>
