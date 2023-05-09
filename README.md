@@ -6,6 +6,8 @@
 
 ##### 🏫고려대학교 전기전자공학부🐯💡        
 
+
+<!---
 ##### 🌏서울시 동대문구
 
 ##### 🛠️ Currently Learning = {C, C++, Python, Verilog, Java, Math, Science ...}
@@ -19,6 +21,7 @@
 <br/>
 
 ##### 인스타그램 @b_young_ho, @chlqudzh
+  --->
   
 <!---
 bankochoi/bankochoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
